@@ -1,0 +1,3 @@
+package earthquakedisaster;
+
+@license(LGPL);
